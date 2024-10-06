@@ -1,2 +1,6 @@
-# eklund-j.github.io
-personal website
+Eklund Johan
+<br>
+Information Systems student @ University of Jyväskylä 
+<br>
+
+
