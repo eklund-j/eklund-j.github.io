@@ -64,7 +64,7 @@ header {
   background-blend-mode: overlay;
   color: #00FF00;
   text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
-  animation: matrixAnimation 3s infinite linear; /* Matrix code fall animation */
+  animation: matrixAnimation 15s infinite linear; /* Matrix code fall animation */
 }
 
 /* Code Rain Animation (Matrix Falling Code) */
@@ -73,7 +73,7 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 20%;
   overflow: hidden;
   color: #00FF00;
   font-size: 1.2rem;
