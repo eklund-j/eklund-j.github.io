@@ -87,7 +87,7 @@ header {
 .matrix-code span {
   display: inline-block;
   opacity: 0.1;
-  animation: matrixAnimation 5s infinite linear;
+  animation: matrixAnimation 15s infinite linear;
 }
 
 /* About Section */
